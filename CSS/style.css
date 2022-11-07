@@ -1,0 +1,6 @@
+.backgroundIndex{
+    background-image: url(/assets/Movie_Theater.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-color: black;
+}
