@@ -46,17 +46,29 @@ body {
 }
 .fallbttn {
     position: absolute;
-    width: 216px;
-    height: 61px;
-    left: 204px;
-    top: 167px;
-    
-    background: #E0BD44;
+width: 216px;
+height: 61px;
+left: 204px;
+top: 167px;
+
+background: #E0BD44;
 
 }
 .FallBT {
+    position: absolute;
+    width: 219px;
+    height: 61px;
+    left: 201px;
+    top: 177px;
+    
+    font-family: 'Noto Sans HK';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 35px;
     text-align: center;
-    justify-content: ;
+    
+    color: #FFFFFF;
 }
 .fallPic {
     position: absolute;
@@ -93,8 +105,80 @@ background: linear-gradient(0deg, #E30B51, #E30B51), #E30B51;
     top: 314.03px;
     
     background: linear-gradient(0deg, #E30B51, #E30B51), #E30B51;
-    
 }
+.odysseyShad {
+    position: absolute;
+width: 141.5px;
+height: 182.57px;
+left: 1119.18px;
+top: 773.03px;
+
+background: linear-gradient(0deg, #E30B51, #E30B51), #E30B51;
+}
+.burnShad {
+    position: absolute;
+width: 141.5px;
+height: 182.57px;
+left: 29px;
+top: 1043px;
+
+background: linear-gradient(0deg, #E30B51, #E30B51), #E30B51;
+}
+
+
+
+
+
+
+.tenShad {
+    position: absolute;
+width: 70px;
+height: 81px;
+left: 201px;
+top: 241px;
+
+background: #74495D;
+}
+.nineShad {
+    position: absolute;
+width: 70px;
+height: 81px;
+left: 56px;
+top: 427px;
+
+background: #74495D;
+}
+.eightShad {
+    position: absolute;
+width: 70px;
+height: 81px;
+left: 201px;
+top: 700px;
+
+background: #7C3D83;
+}
+.sevenShad {
+    position: absolute;
+width: 70px;
+height: 81px;
+left: 56px;
+top: 886px;
+
+background: #C9501D;
+}
+.sixShad {
+    position: absolute;
+width: 70px;
+height: 81px;
+left: 201px;
+top: 1164px;
+
+background: #74495D;
+}
+
+
+
+
 
 
 
@@ -129,6 +213,66 @@ line-height: 24px;
 
 color: #FFFFFF;
 
+}
+.hopeBBtxt {
+    position: absolute;
+width: 839px;
+height: 75px;
+left: 289px;
+top: 687px;
+
+font-family: 'Overlock';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+}
+.odysseyBBtxt {
+    position: absolute;
+width: 839px;
+height: 75px;
+left: 150px;
+top: 881px;
+
+font-family: 'Overlock';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+}
+.burnBBtxt {
+    position: absolute;
+width: 839px;
+height: 75px;
+left: 289px;
+top: 1151px;
+
+font-family: 'Overlock';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+}
+.etBBtxt {
+    position: absolute;
+width: 839px;
+height: 75px;
+left: 150px;
+top: 1345px;
+
+font-family: 'Overlock';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
 }
 
 
@@ -182,4 +326,110 @@ line-height: 72px;
 text-align: center;
 
 color: #CF3F23;
+}
+.sevenTxt {
+    position: absolute;
+width: 46px;
+height: 48px;
+left: 68px;
+top: 893px;
+
+font-family: 'Petrona';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 72px;
+text-align: center;
+
+color: #E0CADC;
+}
+.sixTxt {
+    position: absolute;
+width: 46px;
+height: 48px;
+left: 213px;
+top: 1171px;
+
+font-family: 'Petrona';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 72px;
+text-align: center;
+
+color: #EEC753;
+}
+.fiveTxt {
+    position: absolute;
+width: 46px;
+height: 48px;
+left: 68px;
+top: 1357px;
+
+font-family: 'Petrona';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 72px;
+text-align: center;
+
+color: #F6F3ED;
+}
+
+
+
+
+.fallPB {
+    position: absolute;
+width: 1160.26px;
+height: 146.97px;
+left: 97.68px;
+top: 207.22px;
+
+background: #A89BA3;
+}
+.fashaPB {
+    position: absolute;
+    width: 1160.26px;
+    height: 146.97px;
+    left: 29.21px;
+    top: 400.75px;
+    
+    background: #A89BA3;
+}
+.hopePB {
+    position: absolute;
+width: 1160.26px;
+height: 146.97px;
+left: 97.68px;
+top: 666.22px;
+
+background: #A89BA3;
+}
+.odysseyPB {
+    position: absolute;
+    width: 1160.26px;
+    height: 146.97px;
+    left: 29.21px;
+    top: 859.75px;
+    
+    background: #A89BA3; 
+}
+.burnPB {
+    position: absolute;
+width: 1160.26px;
+height: 146.97px;
+left: 97.68px;
+top: 1130.22px;
+
+background: #A89BA3;
+}
+.etPB {
+    position: absolute;
+    width: 1160.26px;
+    height: 146.97px;
+    left: 29.21px;
+    top: 1323.75px;
+    
+    background: #A89BA3; 
 }
