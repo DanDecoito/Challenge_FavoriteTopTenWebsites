@@ -22,3 +22,164 @@
 h1 {
     text-align: center;
 }
+body {
+    background-color: #512A55;
+}
+.header {
+    position: absolute;
+    width: 472px;
+    height: 39px;
+    left: 6px;
+    top: 0px;
+    
+    font-family: 'Orbitron';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 45px;
+    text-align: center;
+    
+    color: #F20145;
+    
+    border: 2px solid #000000;
+    text-shadow: 0px 0px 25px #F20145, 0px 0px 25px rgba(242, 1, 69, 0.25);
+}
+.fallbttn {
+    position: absolute;
+    width: 216px;
+    height: 61px;
+    left: 204px;
+    top: 167px;
+    
+    background: #E0BD44;
+
+}
+.FallBT {
+    text-align: center;
+    justify-content: ;
+}
+.fallPic {
+    position: absolute;
+width: 41px;
+height: 205px;
+left: 41.82px;
+top: 131px;
+}
+.fallShad {
+    position: absolute;
+width: 141.5px;
+height: 182.57px;
+left: 29px;
+top: 120px;
+
+background: linear-gradient(0deg, #E30B51, #E30B51), #E30B51;
+}
+.hopeShad {
+    position: absolute;
+width: 141.5px;
+height: 182.57px;
+left: 29px;
+top: 579px;
+
+background: linear-gradient(0deg, #E30B51, #E30B51), #E30B51;
+}
+
+.fatherShad {
+
+    position: absolute;
+    width: 141.5px;
+    height: 182.57px;
+    left: 1119.18px;
+    top: 314.03px;
+    
+    background: linear-gradient(0deg, #E30B51, #E30B51), #E30B51;
+    
+}
+
+
+
+
+.fallBBtxt {
+    position: absolute;
+width: 839px;
+height: 75px;
+left: 289px;
+top: 228px;
+
+font-family: 'Overlock';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+}
+.fatherBBtxt {
+    position: absolute;
+width: 839px;
+height: 75px;
+left: 150px;
+top: 422px;
+
+font-family: 'Overlock';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+
+}
+
+
+
+
+
+.tenTxt {
+    position: absolute;
+width: 76px;
+height: 48px;
+left: 198px;
+top: 248px;
+
+font-family: 'Petrona';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 72px;
+text-align: center;
+
+color: #E41A2E;
+}
+.nineTxt {
+    position: absolute;
+width: 46px;
+height: 48px;
+left: 68px;
+top: 434px;
+
+font-family: 'Petrona';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 72px;
+text-align: center;
+
+color: #0B090A;
+}
+.eightTxt {
+    position: absolute;
+width: 46px;
+height: 48px;
+left: 213px;
+top: 707px;
+
+font-family: 'Petrona';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 72px;
+text-align: center;
+
+color: #CF3F23;
+}
