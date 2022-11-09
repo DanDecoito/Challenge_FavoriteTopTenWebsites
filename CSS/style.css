@@ -15,6 +15,43 @@
 
 
 
+.all{
+    background-color: #1f191c;
+}
+
+.nav__list{
+    display: flex;  
+    justify-content: space-between;
+    font-size: 18px;
+    font-family: orbitron;
+    list-style: none;
+    font-weight: 400;   
+    letter-spacing: 1px;
+    color: #f20145;
+    }
+
+    header{
+        display: flex;
+        background-color: #512a51;
+        padding: 1em;
+        width: 100%;
+        height: 77px;
+        border: 2px solid #000000;
+    }
+
+    .nav__link{
+        text-decoration:none;
+        color: inherit;
+        
+    }
+
+    .dan_banner{
+       border: #12a53e;
+       border-width: 20px;
+    }
+   
+
+
 /*-------------------------------------------------------------Dans CSS Code Goes above this---------------------------------------------------------------------------------------------------------------*/
 /*---------------------------------------------------------Rafas CSS Code goes below this--------------------------------------------------------------------------------------------------------------------*/
 
