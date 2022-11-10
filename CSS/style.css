@@ -27,7 +27,7 @@
 }
 
 .backgroundIndex {
-    background-image: url(/assets/Movie_Theater.jpg);
+    
     background-size: cover;
     background-repeat: no-repeat;
     background-color: black;
@@ -65,7 +65,7 @@
 }
 
 .banner {
-
+    
     height: 512px;
     width: 100%;
     top: 380x;
@@ -96,8 +96,24 @@
 .danNumber{
 
     font-size: 40px;
+    background-color: #4470B4;
 
 }
+
+
+.danText{
+    background-color: #A89BA3;
+    font-family: Overlock;
+    font-size: 18px;
+    
+    
+    text-align: center;
+    color: #FFFFFF;
+    
+
+
+}
+
 
 
 
