@@ -22,8 +22,6 @@
     margin-bottom: 100px;
     margin-right: 100px;
 
-
-
 }
 
 .backgroundIndex {
@@ -31,18 +29,20 @@
     background-size: cover;
     background-repeat: no-repeat;
     background-color: black;
-}
 
+}
 
 .background{
     background-image: url(../assets/FigmaFrames/innerbackground.png);
     background-repeat: no-repeat;
     background-size: cover;
     
+    
 }
 
 .all {
     background-color: #1f191c;
+
 }
 
 .nav-item {
@@ -53,6 +53,7 @@
     letter-spacing: 1px;
     color: #f20145;
     border: 1px solid #a82349;
+
 }
 
 
@@ -61,7 +62,6 @@
     text-decoration: none;
     color: inherit;
 
-
 }
 
 .banner {
@@ -69,12 +69,14 @@
     height: 512px;
     width: 100%;
     top: 380x;
+
 }
 
 .content {
     position: absolute;
     justify-content: center;
     align-self: center;
+
 }
 
 .purple {
@@ -91,12 +93,19 @@
 .review{
     color: white;
     text-align: center;
+
 }
 
 .danNumber{
 
-    font-size: 40px;
-    background-color: #4470B4;
+    font-size: 22px;
+    font-family: orbitron;
+    list-style: none;
+    font-weight: 400;
+    
+    color: #f20145;
+   
+   
 
 }
 
@@ -107,7 +116,7 @@
     font-size: 18px;
     
     
-    text-align: center;
+    
     color: #FFFFFF;
     
 
