@@ -13,7 +13,7 @@
 }
 
 
-
+    
 
 /*-------------------------------------------------------------Dans CSS Code Goes above this---------------------------------------------------------------------------------------------------------------*/
 /*---------------------------------------------------------Rafas CSS Code goes below this--------------------------------------------------------------------------------------------------------------------*/
@@ -50,27 +50,27 @@ body {
     height: 39px;
     left: 6px;
     top: 0px;
-    
+
     font-family: 'Orbitron';
     font-style: normal;
     font-weight: 400;
     font-size: 36px;
     line-height: 45px;
     text-align: center;
-    
+
     color: #F20145;
-    
+
     border: 2px solid #000000;
     text-shadow: 0px 0px 25px #F20145, 0px 0px 25px rgba(242, 1, 69, 0.25);
 }
 .fallbttn {
     position: absolute;
-width: 216px;
-height: 61px;
-left: 204px;
-top: 167px;
+    width: 216px;
+    height: 61px;
+    left: 204px;
+    top: 167px;
 
-background: #E0BD44;
+    background: #E0BD44;
 
 }
 .FallBT {
@@ -79,34 +79,34 @@ background: #E0BD44;
     height: 61px;
     left: 201px;
     top: 177px;
-    
+
     font-family: 'Noto Sans HK';
     font-style: normal;
     font-weight: 400;
     font-size: 24px;
     line-height: 35px;
     text-align: center;
-    
+
     color: #FFFFFF;
 }
 
 .fallShad {
     position: absolute;
-width: 141.5px;
-height: 182.57px;
-left: 29px;
-top: 120px;
+    width: 141.5px;
+    height: 182.57px;
+    left: 29px;
+    top: 120px;
 
-background: linear-gradient(0deg, #E30B51, #E30B51), #E30B51;
+    background: linear-gradient(0deg, #E30B51, #E30B51), #E30B51;
 }
 .hopeShad {
     position: absolute;
-width: 141.5px;
-height: 182.57px;
-left: 29px;
-top: 579px;
+    width: 141.5px;
+    height: 182.57px;
+    left: 29px;
+    top: 579px;
 
-background: linear-gradient(0deg, #E30B51, #E30B51), #E30B51;
+    background: linear-gradient(0deg, #E30B51, #E30B51), #E30B51;
 }
 
 .fatherShad {
@@ -116,26 +116,26 @@ background: linear-gradient(0deg, #E30B51, #E30B51), #E30B51;
     height: 182.57px;
     left: 1119.18px;
     top: 314.03px;
-    
+
     background: linear-gradient(0deg, #E30B51, #E30B51), #E30B51;
 }
 .odysseyShad {
     position: absolute;
-width: 141.5px;
-height: 182.57px;
-left: 1119.18px;
-top: 773.03px;
+    width: 141.5px;
+    height: 182.57px;
+    left: 1119.18px;
+    top: 773.03px;
 
-background: linear-gradient(0deg, #E30B51, #E30B51), #E30B51;
+    background: linear-gradient(0deg, #E30B51, #E30B51), #E30B51;
 }
 .burnShad {
     position: absolute;
-width: 141.5px;
-height: 182.57px;
-left: 29px;
-top: 1043px;
+    width: 141.5px;
+    height: 182.57px;
+    left: 29px;
+    top: 1043px;
 
-background: linear-gradient(0deg, #E30B51, #E30B51), #E30B51;
+    background: linear-gradient(0deg, #E30B51, #E30B51), #E30B51;
 }
 .etShad {
     position: absolute;
@@ -304,48 +304,48 @@ background-repeat: no-repeat;
 
 .tenShad {
     position: absolute;
-width: 70px;
-height: 81px;
-left: 201px;
-top: 241px;
+    width: 70px;
+    height: 81px;
+    left: 201px;
+    top: 241px;
 
-background: #74495D;
+    background: #74495D;
 }
 .nineShad {
     position: absolute;
-width: 70px;
-height: 81px;
-left: 56px;
-top: 427px;
+    width: 70px;
+    height: 81px;
+    left: 56px;
+    top: 427px;
 
-background: #74495D;
+    background: #74495D;
 }
 .eightShad {
     position: absolute;
-width: 70px;
-height: 81px;
-left: 201px;
-top: 700px;
+    width: 70px;
+    height: 81px;
+    left: 201px;
+    top: 700px;
 
-background: #7C3D83;
+    background: #7C3D83;
 }
 .sevenShad {
     position: absolute;
-width: 70px;
-height: 81px;
-left: 56px;
-top: 886px;
+    width: 70px;
+    height: 81px;
+    left: 56px;
+    top: 886px;
 
-background: #C9501D;
+    background: #C9501D;
 }
 .sixShad {
     position: absolute;
-width: 70px;
-height: 81px;
-left: 201px;
-top: 1164px;
+    width: 70px;
+    height: 81px;
+    left: 201px;
+    top: 1164px;
 
-background: #74495D;
+    background: #74495D;
 }
 .fiveShad {
     position: absolute;
@@ -402,94 +402,94 @@ background: #E42F5A;
 
 .fallBBtxt {
     position: absolute;
-width: 839px;
-height: 75px;
-left: 289px;
-top: 228px;
+    width: 839px;
+    height: 75px;
+    left: 289px;
+    top: 228px;
 
-font-family: 'Overlock';
-font-style: normal;
-font-weight: 400;
-font-size: 20px;
-line-height: 24px;
+    font-family: 'Overlock';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
 
-color: #FFFFFF;
+    color: #FFFFFF;
 }
 .fatherBBtxt {
     position: absolute;
-width: 839px;
-height: 75px;
-left: 150px;
-top: 422px;
+    width: 839px;
+    height: 75px;
+    left: 150px;
+    top: 422px;
 
-font-family: 'Overlock';
-font-style: normal;
-font-weight: 400;
-font-size: 20px;
-line-height: 24px;
+    font-family: 'Overlock';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
 
-color: #FFFFFF;
+    color: #FFFFFF;
 
 }
 .hopeBBtxt {
     position: absolute;
-width: 839px;
-height: 75px;
-left: 289px;
-top: 687px;
+    width: 839px;
+    height: 75px;
+    left: 289px;
+    top: 687px;
 
-font-family: 'Overlock';
-font-style: normal;
-font-weight: 400;
-font-size: 20px;
-line-height: 24px;
+    font-family: 'Overlock';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
 
-color: #FFFFFF;
+    color: #FFFFFF;
 }
 .odysseyBBtxt {
     position: absolute;
-width: 839px;
-height: 75px;
-left: 150px;
-top: 881px;
+    width: 839px;
+    height: 75px;
+    left: 150px;
+    top: 881px;
 
-font-family: 'Overlock';
-font-style: normal;
-font-weight: 400;
-font-size: 20px;
-line-height: 24px;
+    font-family: 'Overlock';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
 
-color: #FFFFFF;
+    color: #FFFFFF;
 }
 .burnBBtxt {
     position: absolute;
-width: 839px;
-height: 75px;
-left: 289px;
-top: 1151px;
+    width: 839px;
+    height: 75px;
+    left: 289px;
+    top: 1151px;
 
-font-family: 'Overlock';
-font-style: normal;
-font-weight: 400;
-font-size: 20px;
-line-height: 24px;
+    font-family: 'Overlock';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
 
-color: #FFFFFF;
+    color: #FFFFFF;
 }
 .etBBtxt {
     position: absolute;
-width: 839px;
-height: 75px;
-left: 150px;
-top: 1345px;
+    width: 839px;
+    height: 75px;
+    left: 150px;
+    top: 1345px;
 
-font-family: 'Overlock';
-font-style: normal;
-font-weight: 400;
-font-size: 20px;
-line-height: 24px;
+    font-family: 'Overlock';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
 
-color: #FFFFFF;
+    color: #FFFFFF;
 }
 .rotkBBtxt {
     position: absolute;
@@ -561,99 +561,99 @@ text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 
 .tenTxt {
     position: absolute;
-width: 76px;
-height: 48px;
-left: 198px;
-top: 248px;
+    width: 76px;
+    height: 48px;
+    left: 198px;
+    top: 248px;
 
-font-family: 'Petrona';
-font-style: normal;
-font-weight: 400;
-font-size: 64px;
-line-height: 72px;
-text-align: center;
+    font-family: 'Petrona';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 72px;
+    text-align: center;
 
-color: #E41A2E;
+    color: #E41A2E;
 }
 .nineTxt {
     position: absolute;
-width: 46px;
-height: 48px;
-left: 68px;
-top: 434px;
+    width: 46px;
+    height: 48px;
+    left: 68px;
+    top: 434px;
 
-font-family: 'Petrona';
-font-style: normal;
-font-weight: 400;
-font-size: 64px;
-line-height: 72px;
-text-align: center;
+    font-family: 'Petrona';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 72px;
+    text-align: center;
 
-color: #0B090A;
+    color: #0B090A;
 }
 .eightTxt {
     position: absolute;
-width: 46px;
-height: 48px;
-left: 213px;
-top: 707px;
+    width: 46px;
+    height: 48px;
+    left: 213px;
+    top: 707px;
 
-font-family: 'Petrona';
-font-style: normal;
-font-weight: 400;
-font-size: 64px;
-line-height: 72px;
-text-align: center;
+    font-family: 'Petrona';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 72px;
+    text-align: center;
 
-color: #CF3F23;
+    color: #CF3F23;
 }
 .sevenTxt {
     position: absolute;
-width: 46px;
-height: 48px;
-left: 68px;
-top: 893px;
+    width: 46px;
+    height: 48px;
+    left: 68px;
+    top: 893px;
 
-font-family: 'Petrona';
-font-style: normal;
-font-weight: 400;
-font-size: 64px;
-line-height: 72px;
-text-align: center;
+    font-family: 'Petrona';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 72px;
+    text-align: center;
 
-color: #E0CADC;
+    color: #E0CADC;
 }
 .sixTxt {
     position: absolute;
-width: 46px;
-height: 48px;
-left: 213px;
-top: 1171px;
+    width: 46px;
+    height: 48px;
+    left: 213px;
+    top: 1171px;
 
-font-family: 'Petrona';
-font-style: normal;
-font-weight: 400;
-font-size: 64px;
-line-height: 72px;
-text-align: center;
+    font-family: 'Petrona';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 72px;
+    text-align: center;
 
-color: #EEC753;
+    color: #EEC753;
 }
 .fiveTxt {
     position: absolute;
-width: 46px;
-height: 48px;
-left: 68px;
-top: 1357px;
+    width: 46px;
+    height: 48px;
+    left: 68px;
+    top: 1357px;
 
-font-family: 'Petrona';
-font-style: normal;
-font-weight: 400;
-font-size: 64px;
-line-height: 72px;
-text-align: center;
+    font-family: 'Petrona';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 72px;
+    text-align: center;
 
-color: #F6F3ED;
+    color: #F6F3ED;
 }
 .quartTxt {
     position: absolute;
@@ -726,12 +726,12 @@ color: #D09D20;
 
 .fallPB {
     position: absolute;
-width: 1160.26px;
-height: 146.97px;
-left: 97.68px;
-top: 207.22px;
+    width: 1160.26px;
+    height: 146.97px;
+    left: 97.68px;
+    top: 207.22px;
 
-background: #A89BA3;
+    background: #A89BA3;
 }
 .fashaPB {
     position: absolute;
@@ -739,17 +739,17 @@ background: #A89BA3;
     height: 146.97px;
     left: 29.21px;
     top: 400.75px;
-    
+
     background: #A89BA3;
 }
 .hopePB {
     position: absolute;
-width: 1160.26px;
-height: 146.97px;
-left: 97.68px;
-top: 666.22px;
+    width: 1160.26px;
+    height: 146.97px;
+    left: 97.68px;
+    top: 666.22px;
 
-background: #A89BA3;
+    background: #A89BA3;
 }
 .odysseyPB {
     position: absolute;
@@ -757,17 +757,17 @@ background: #A89BA3;
     height: 146.97px;
     left: 29.21px;
     top: 859.75px;
-    
-    background: #A89BA3; 
+
+    background: #A89BA3;
 }
 .burnPB {
     position: absolute;
-width: 1160.26px;
-height: 146.97px;
-left: 97.68px;
-top: 1130.22px;
+    width: 1160.26px;
+    height: 146.97px;
+    left: 97.68px;
+    top: 1130.22px;
 
-background: #A89BA3;
+    background: #A89BA3;
 }
 .etPB {
     position: absolute;
@@ -775,8 +775,8 @@ background: #A89BA3;
     height: 146.97px;
     left: 29.21px;
     top: 1323.75px;
-    
-    background: #A89BA3; 
+
+    background: #A89BA3;
 }
 .rotkPB {
     position: absolute;
