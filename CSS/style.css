@@ -18,12 +18,31 @@
 /*-------------------------------------------------------------Dans CSS Code Goes above this---------------------------------------------------------------------------------------------------------------*/
 /*---------------------------------------------------------Rafas CSS Code goes below this--------------------------------------------------------------------------------------------------------------------*/
 
+.box {
+
+}
+
+
+
+
+
+
+.box1-container {
+   text-align: center;
+}
+
 
 h1 {
     text-align: center;
 }
 body {
     background-color: #512A55;
+    align-items: center;
+    justify-content: center;
+
+
+    
+
 }
 .header {
     position: absolute;
@@ -70,13 +89,7 @@ background: #E0BD44;
     
     color: #FFFFFF;
 }
-.fallPic {
-    position: absolute;
-width: 41px;
-height: 205px;
-left: 41.82px;
-top: 131px;
-}
+
 .fallShad {
     position: absolute;
 width: 141.5px;
@@ -124,8 +137,167 @@ top: 1043px;
 
 background: linear-gradient(0deg, #E30B51, #E30B51), #E30B51;
 }
+.etShad {
+    position: absolute;
+width: 141.5px;
+height: 182.57px;
+left: 1119.18px;
+top: 1237.03px;
+
+background: linear-gradient(0deg, #E30B51, #E30B51), #E30B51;
+}
+.rotkShad {
+    position: absolute;
+width: 141.5px;
+height: 182.57px;
+left: 29px;
+top: 1507px;
+
+background: linear-gradient(0deg, #E30B51, #E30B51), #E30B51;
+}
+.aliensShad {
+    position: absolute;
+width: 141.5px;
+height: 182.57px;
+left: 1119.18px;
+top: 1701.03px;
+
+background: linear-gradient(0deg, #E30B51, #E30B51), #E30B51;
+}
+.graffShad {
+    position: absolute;
+width: 141.5px;
+height: 182.57px;
+left: 29px;
+top: 1971px;
+
+background: linear-gradient(0deg, #E30B51, #E30B51), #E30B51;
+}
+.sundanceShad {
+    position: absolute;
+width: 141.5px;
+height: 182.57px;
+left: 1119.18px;
+top: 2165.03px;
+
+background: linear-gradient(0deg, #E30B51, #E30B51), #E30B51;
+}
 
 
+
+
+
+
+.graffPic {
+    position: absolute;
+width: 141px;
+height: 205px;
+left: 42px;
+top: 1981px;
+
+background-image: url(/assets/usGraf.jpeg);
+background-size: contain;
+background-repeat: no-repeat;
+}
+.sundancePic {
+    position: absolute;
+width: 141px;
+height: 205px;
+left: 1110px;
+top: 2176px;
+
+background-image: url(/assets/sundanceKid.jpg);
+background-size: contain;
+background-repeat: no-repeat;
+}
+.aliensPic {
+    position: absolute;
+width: 141px;
+height: 205px;
+left: 1110px;
+top: 1712px;
+
+background-image: url(/assets/closeEncounters.jpg);
+background-size: contain;
+background-repeat: no-repeat;
+}
+.rotkPic {
+    position: absolute;
+width: 141px;
+height: 205px;
+left: 42px;
+top: 1517px;
+
+background-image: url(/assets/LOTRrotk.jpg);
+background-size: contain;
+background-repeat: no-repeat;
+}
+.etPic {
+    position: absolute;
+width: 141px;
+height: 205px;
+left: 1110px;
+top: 1248px;
+
+background-image: url(/assets/ET.jpg);
+background-size: contain;
+background-repeat: no-repeat;
+}
+.burnPic {
+    position: absolute;
+width: 141px;
+height: 205px;
+left: 42px;
+top: 1054px;
+
+background-image: url(/assets/burnAfter.jpg);
+background-size: contain;
+background-repeat: no-repeat;
+}
+.odysseyPic {
+    position: absolute;
+width: 141px;
+height: 205px;
+left: 1110px;
+top: 784px;
+
+background-image: url(/assets/2001.jpeg);
+background-size: contain;
+background-repeat: no-repeat;
+}
+.hopePic {
+    position: absolute;
+width: 141px;
+height: 205px;
+left: 42px;
+top: 587px;
+
+background-image: url(/assets/newHope.jpg);
+background-size: contain;
+background-repeat: no-repeat;
+}
+.fashaPic {
+    position: absolute;
+width: 141px;
+height: 205px;
+left: 1110px;
+top: 324px;
+
+background-image: url(/assets/godFasha.jpg);
+background-size: contain;
+background-repeat: no-repeat;
+}
+.fallPic {
+    position: absolute;
+width: 141px;
+height: 205px;
+left: 41.82px;
+top: 131px;
+
+background-image: url(/assets/theFall.jpg);
+background-size: contain;
+background-repeat: no-repeat;
+}
 
 
 
@@ -174,6 +346,51 @@ left: 201px;
 top: 1164px;
 
 background: #74495D;
+}
+.fiveShad {
+    position: absolute;
+width: 70px;
+height: 81px;
+left: 56px;
+top: 1350px;
+
+background: #4470B4;
+}
+.fourShad {
+    position: absolute;
+width: 70px;
+height: 81px;
+left: 201px;
+top: 1628px;
+
+background: #732E0C;
+}
+.threeShad {
+    position: absolute;
+width: 70px;
+height: 81px;
+left: 56px;
+top: 1814px;
+
+background: #E4692D;
+}
+.twoShad {
+    position: absolute;
+width: 70px;
+height: 81px;
+left: 201px;
+top: 2092px;
+
+background: #D3D198;
+}
+.oneShad {
+    position: absolute;
+width: 70px;
+height: 81px;
+left: 56px;
+top: 2278px;
+
+background: #E42F5A;
 }
 
 
@@ -274,6 +491,69 @@ line-height: 24px;
 
 color: #FFFFFF;
 }
+.rotkBBtxt {
+    position: absolute;
+width: 839px;
+height: 75px;
+left: 289px;
+top: 1615px;
+
+font-family: 'Overlock';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+}
+.aliensBBtxt {
+    position: absolute;
+width: 839px;
+height: 75px;
+left: 150px;
+top: 1809px;
+
+font-family: 'Overlock';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+}
+.graffBBtxt {
+    position: absolute;
+width: 839px;
+height: 75px;
+left: 289px;
+top: 2079px;
+
+font-family: 'Overlock';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+}
+.sundanceBBtxt {
+    position: absolute;
+width: 839px;
+height: 75px;
+left: 150px;
+top: 2273px;
+
+font-family: 'Overlock';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
 
 
 
@@ -375,6 +655,71 @@ text-align: center;
 
 color: #F6F3ED;
 }
+.quartTxt {
+    position: absolute;
+width: 46px;
+height: 48px;
+left: 213px;
+top: 1635px;
+
+font-family: 'Petrona';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 72px;
+text-align: center;
+
+color: #D3B475;
+
+}
+.trezTxt {
+    position: absolute;
+width: 46px;
+height: 48px;
+left: 68px;
+top: 1821px;
+
+font-family: 'Petrona';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 72px;
+text-align: center;
+
+color: #FAAF5A;
+}
+.dozTxt {
+    position: absolute;
+width: 46px;
+height: 48px;
+left: 213px;
+top: 2099px;
+
+font-family: 'Petrona';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 72px;
+text-align: center;
+
+color: #C44B02;
+}
+.unoTxt {
+    position: absolute;
+width: 46px;
+height: 48px;
+left: 68px;
+top: 2285px;
+
+font-family: 'Petrona';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 72px;
+text-align: center;
+
+color: #D09D20;
+}
 
 
 
@@ -432,4 +777,40 @@ background: #A89BA3;
     top: 1323.75px;
     
     background: #A89BA3; 
+}
+.rotkPB {
+    position: absolute;
+width: 1160.26px;
+height: 146.97px;
+left: 98px;
+top: 1601px;
+
+background: #A89BA3;
+}
+.aliensPB {
+    position: absolute;
+width: 1160.26px;
+height: 146.97px;
+left: 29.21px;
+top: 1787.75px;
+
+background: #A89BA3;
+}
+.mericanPB {
+    position: absolute;
+width: 1160.26px;
+height: 146.97px;
+left: 97.68px;
+top: 2058.22px;
+
+background: #A89BA3;
+}
+.sundancekidPB {
+    position: absolute;
+width: 1160.26px;
+height: 146.97px;
+left: 29.21px;
+top: 2251.75px;
+
+background: #A89BA3;
 }
