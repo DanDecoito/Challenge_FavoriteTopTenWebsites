@@ -150,6 +150,11 @@ body {
 
     border: 2px solid #000000;
     text-shadow: 0px 0px 25px #F20145, 0px 0px 25px rgba(242, 1, 69, 0.25);
+
+
+
+
+    
 }
 .fallbttn {
     position: absolute;
@@ -161,6 +166,101 @@ body {
     background: #E0BD44;
 
 }
+.fashabttn {
+    position: absolute;
+width: 216px;
+height: 61px;
+left: 883px;
+top: 518px;
+
+background: #A95F45;
+}
+.hopebttn {
+    position: absolute;
+width: 216px;
+height: 61px;
+left: 204px;
+top: 626px;
+
+background: #C4724D;
+}
+.odysseybttn {
+    position: absolute;
+width: 216px;
+height: 92px;
+left: 883px;
+top: 977px;
+
+background: #941320;
+}
+.burnbttn {
+    position: absolute;
+width: 216px;
+height: 61px;
+left: 204px;
+top: 1090px;
+
+background: #982122;
+}
+.etbttn {
+    position: absolute;
+width: 216px;
+height: 61px;
+left: 883px;
+top: 1441px;
+
+background: #EA5F29;
+}
+.rotkbttn {
+    position: absolute;
+width: 216px;
+height: 61px;
+left: 204px;
+top: 1554px;
+
+background: #9A8C6C;
+}
+.aliensbttn {
+    position: absolute;
+    width: 216px;
+    height: 61px;
+    left: 883px;
+    top: 1905px;
+    
+    background: #D4163C;
+}
+.graffbttn {
+    position: absolute;
+width: 216px;
+height: 61px;
+left: 204px;
+top: 2018px;
+
+background: #CEB970;
+}
+.sundancebttn {
+    position: absolute;
+width: 216px;
+height: 118px;
+left: 883px;
+top: 2369px;
+
+background: #956F2D;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .FallBT {
     position: absolute;
     width: 219px;
@@ -177,6 +277,160 @@ body {
 
     color: #FFFFFF;
 }
+.FashaBT {
+    position: absolute;
+width: 219px;
+height: 61px;
+left: 880px;
+top: 529px;
+
+font-family: 'Noto Sans HK';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 35px;
+text-align: center;
+
+color: #FFFFFF;
+}
+.hopeBT {
+    position: absolute;
+width: 219px;
+height: 61px;
+left: 201px;
+top: 636px;
+
+font-family: 'Noto Sans HK';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 35px;
+text-align: center;
+
+color: #FFFFFF;
+}
+.odysseyBT {
+    position: absolute;
+width: 219px;
+height: 6px;
+left: 880px;
+top: 989px;
+
+font-family: 'Noto Sans HK';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 35px;
+text-align: center;
+
+color: #FFFFFF;
+}
+.burnBT {
+    position: absolute;
+width: 219px;
+height: 61px;
+left: 201px;
+top: 1085px;
+
+font-family: 'Noto Sans HK';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 35px;
+text-align: center;
+
+color: #FFFFFF;
+}
+.etBT {
+    position: absolute;
+width: 219px;
+height: 61px;
+left: 880px;
+top: 1453px;
+
+font-family: 'Noto Sans HK';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 35px;
+text-align: center;
+
+color: #FFFFFF;
+}
+.rotkBT {
+    position: absolute;
+width: 219px;
+height: 61px;
+left: 201px;
+top: 1567px;
+
+font-family: 'Noto Sans HK';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 35px;
+text-align: center;
+
+color: #FFFFFF;
+}
+.aliensBT {
+    position: absolute;
+width: 219px;
+height: 61px;
+left: 880px;
+top: 1917px;
+
+font-family: 'Noto Sans HK';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 35px;
+text-align: center;
+
+color: #FFFFFF;
+}
+.graffBT {
+    position: absolute;
+width: 219px;
+height: 61px;
+left: 200px;
+top: 2031px;
+
+font-family: 'Noto Sans HK';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 35px;
+text-align: center;
+
+color: #FFFFFF;
+}
+.sundanceBT {
+    position: absolute;
+width: 219px;
+height: 61px;
+left: 880px;
+top: 2364px;
+
+font-family: 'Noto Sans HK';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 35px;
+text-align: center;
+
+color: #FFFFFF;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+
+
+
+
+
+
+
 
 .fallShad {
     position: absolute;
